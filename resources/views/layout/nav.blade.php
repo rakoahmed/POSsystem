@@ -24,9 +24,9 @@
     @auth
     <div class="d-flex" id="wrapper">
         <div class=" n-g text-center hover-overlay" id="sidebar-wrapper">
-            <div class="sidebar-heading"><span
-                    class="ml-2 t-c">shaBeauty</span></div>
-            <div class="list-group list-group-flush mt-4">
+            <div class="sidebar-heading"><img src="{{asset('assets/img/logo.svg')}}" width="45" alt=""><span
+                class="ml-2 t-c">Pharmacy</span></div>
+                    <div class="list-group list-group-flush mt-4">
 
 
                 <a href="{{ route('sale') }}" class="t-c t-b btn btn-lg mr-3 ml-3 mt-2 mb-2 radius-10">
